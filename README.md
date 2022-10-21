@@ -2,6 +2,7 @@
 
   <p align="center">
     Helping you build websites and apps to stand out on the web!
+    milletgilmore.com
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
