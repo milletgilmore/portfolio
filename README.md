@@ -2,7 +2,8 @@
 
   <p align="center">
     Helping you build websites and apps to stand out on the web!
-    milletgilmore.com
+  <p align="center">
+    [milletgilmore.com](https://milletgilmore.com)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
